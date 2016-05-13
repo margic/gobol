@@ -1,0 +1,16 @@
+{
+	"ImportPath": "github.com/margic/gobol",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v66",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.10.0-16-gcd7d1bb",
+			"Rev": "cd7d1bbe41066b6c1f19780f895901052150a575"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "e82cb4d7dffc35bcec7bc8bf9e402377e0ecf3f4"
+		}
+	]
+}
