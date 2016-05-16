@@ -5,5 +5,5 @@ node {
 }
 state 'IntegrationTest'
 node {
-    
+    echo 'Begin Integration Test'
 }
